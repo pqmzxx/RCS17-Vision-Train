@@ -29,6 +29,7 @@ Colaboratory 是一个免费的 Jupyter 笔记本环境，不需要进行任何�
 需要两样东西
 - 谷歌账号
 - 科学上网
+
 [Colab主页](https://colab.research.google.com/drive/)
 ### 使用Colab的方式
 ![alt text](image/image.png)
