@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>0002.webp</filename>
+	<path>C:\Users\yjq12\Downloads\yolov5-master\yolov5-master\event\images\train\0002.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1052</width>
+		<height>1395</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

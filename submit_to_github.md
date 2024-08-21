@@ -7,11 +7,15 @@
 ### git remote -v
 ### 若输出类似origin  https://github.com/username/repository.git (fetch)
 ### origin  https://github.com/username/repository.git (push)则为远程连接成功
-### ------这是一条分割线------
+
+---
+
 ### **误区：何时需要使用 git remote add origin <repository-url>**
 ### 初始化本地仓库后：
 ### 如果你使用 git init 命令初始化了一个新的本地 Git 仓库，但还没有将其与远程仓库关联，你需要使用 git remote add 命令添加远程仓库。（即原是在资源管理器新建的文件，不是在GitHub直接建立具有链接的情况）
-### ------这是一条分割线------
+
+***
+
 ### 与远程连接成功后
 ### 我希望在一个新的分支上进行工作，因此先创建分支，然后在新分支上创建文件
 ### 在创建新的分支之前，可以先查看当前的分支和其他分支：git branch
@@ -38,7 +42,7 @@
 ### git commit -m "双引号内容自己定均可"
 ### 推送新分支到远程仓库：
 ### git push origin baga
-### -------------------------
+***
 ## 下午主要为cuda等环境配置
 
 
